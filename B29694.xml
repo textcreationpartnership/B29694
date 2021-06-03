@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Shaftsbury's farewel: or, The new association,.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29694</idno><idno type="EEBO-CITATION">99889318_201049</idno>
+  <idno type="VID">201049</idno>
+  <idno type="EEBO-PROQUEST">2264186963</idno>
+  
+            <idno type="OCLC"> 9029580</idno>
+            <idno type="STC">Wing S2909</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[74]</idno>
+            <idno type="STC">ESTC R25620</idno>
+            <idno type="PROQUEST">ocm99889318</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889318e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29694)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201049)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[75]; A8:1[76])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Shaftsbury's farewel: or, The new association,.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Walter Davis,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Single column of text, initial.</note>
+                  <note>First line: "Greatest of men, yet mans least friend, farewel."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683 --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Great Britain --  Politics and government --  1660-1688. --  Poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:201049:1"/>
+            <head>Shaftsbury's Farewel: OR, <hi>The New Association▪</hi>
+            </head>
+            <lg>
+               <l>GReatest of Men, yet Mans least Friend, farewel;</l>
+               <l>Wits Mightiest, but most Useless, Miracle;</l>
+               <l>Where Nature all her Richest Treasures stor'd,</l>
+               <l>To make one vast unprofitable Hoard:</l>
+               <l>So High as Thine no Orb of Fire cou'd rowl,</l>
+               <l>The Brightest, yet the most Excentrick Soul;</l>
+               <l>Whom 'midst Wealth, Honours, Fame, yet <hi>want of ease,</hi>
+               </l>
+               <l>No Pow'r could e'r oblige, no State could please;</l>
+               <l>Be in thy Grave with peaceful Slumbers blest,</l>
+               <l>And find Thy whole Life's only Stranger, REST.</l>
+               <l>Oh, <hi>Sh—y!</hi> had thy prodigious Mind</l>
+               <l>Been to Thy self, and Thy Great Master kind,</l>
+               <l>Glory had wanted Lungs Thy Trump to blow,</l>
+               <l>And Pyramids had been a <hi>Tomb</hi> too low.</l>
+               <l>Oh that the World (Great States-man) e'r should see</l>
+               <l>
+                  <hi>Nebuchadnezzar</hi>▪s Dream fulfill'd in <hi>Thee!</hi>
+               </l>
+               <l>Whil▪st such low Paths led Thy Great Soul astray,</l>
+               <l>Thy <hi>Head of Gold</hi> mov'd but on <hi>Feet of Clay.</hi>
+               </l>
+               <l>Yes, from <hi>Rebellions</hi> late Inhumane Rage,</l>
+               <l>The Crimes and <hi>Chaos</hi> of that Monstrous Age,</l>
+               <l>As the Old Patriarch from <hi>Sodom</hi> flew,</l>
+               <l>So to Great CHARLES His Sacred Bosom Thou;</l>
+               <l>But, Oh! with more than <hi>Lots</hi> Wifes fatal Fault,</l>
+               <l>For which she stood in Monumental Salt.</l>
+               <l>Though the Black Scene Thy hasting Foot-step flies,</l>
+               <l>Thy Soul turns back, and looks with longing Eyes.</l>
+               <l>Ah, Noble Peer, that the Records of Fame</l>
+               <l>Should give <hi>Erostratus</hi> and <hi>Thee</hi> One Name;</l>
+               <l>
+                  <hi>Great</hi> was his bold Atchievement, <hi>Greater Thine,</hi>
+               </l>
+               <l>
+                  <hi>Greater,</hi> as <hi>Kings</hi> than <hi>Shrines</hi> are more Divine;</l>
+               <l>
+                  <hi>Greater,</hi> as vaster Toils it did require</l>
+               <l>T'inflame <hi>Three Kingdoms,</hi> than <hi>One Temple</hi> fire,</l>
+            </lg>
+            <lg>
+               <l>But where are all those blust'ring Storms retir'd,</l>
+               <l>That roar'd so loud when <hi>Oliver</hi> expir'd?</l>
+               <l>Storms that rent Oaks, and Rocks assunder broke,</l>
+               <l>And at his <hi>Exequies</hi> in Thunder spoke.</l>
+               <pb facs="tcp:201049:2"/>
+               <l>Was there less cause, when <hi>Thy</hi> last Doom was giv'n,</l>
+               <l>To waken all the <hi>Revellers of Heaven?</hi>
+               </l>
+               <l>Or did there want in <hi>Belgia</hi>'s humble Soil</l>
+               <l>A Cedar fit to fall <hi>Thy Funeral-pile?</hi>
+               </l>
+               <l>No; Die, and Heav'n th' Expence of <hi>Thunder</hi> save,</l>
+               <l>Hush'd as <hi>Thy own Designs,</hi> down to <hi>Thy Grave.</hi>
+               </l>
+               <l>So hush'd, may all the Portents of the Skie</l>
+               <l>With <hi>Thee,</hi> our last great Comets Influence die:</l>
+               <l>May this <hi>One Stroke</hi> our low'ring Tempests clear,</l>
+               <l>And all the <hi>Firy Trigon</hi> finish here.</l>
+               <l>With <hi>Thee</hi> expire the <hi>Democratick Gall;</hi>
+               </l>
+               <l>
+                  <hi>Thy Sepulchre</hi> and <hi>Lethe</hi> swallow all:</l>
+               <l>Here end the Poyson of that Vip'rous Brood,</l>
+               <l>And make Thy Urn like <hi>Moses</hi> wond'rous Rod;</l>
+               <l>So may <hi>Our Breaches</hi> close in <hi>Thy One Grave,</hi>
+               </l>
+               <l>Till <hi>Sh—y</hi>'s last Breath <hi>Three Nations</hi> save;</l>
+               <l>And dying thus, t' avert His Countreys Doom,</l>
+               <l>Go with more Fame than <hi>Curtius</hi> to His Tomb.</l>
+            </lg>
+            <lg>
+               <l>But is He dead! How! Cruel <hi>Belgia,</hi> say!</l>
+               <l>Lodg'd in thy Arms, yet make so short a Stay!</l>
+               <l>Ungrateful Countrey! Barbarous <hi>Holland</hi> Shoar!</l>
+               <l>Cou'd the <hi>Batavian</hi> Climate do no more!</l>
+               <l>Her <hi>S</hi>—'s dear Life no longer save!</l>
+               <l>What? a <hi>Republick Air,</hi> and yet so quick a Grave!</l>
+               <l>Oh! all ye scatter'd Sons of <hi>Titan</hi> weep,</l>
+               <l>This dismal day with solemn Mournings keep;</l>
+               <l>Like <hi>Israels Molten-Calf</hi> your MEDALS burn,</l>
+               <l>And into Tears▪ your Great LAETEMUR turn;</l>
+               <l>Oh! wail in Dust, to think how Fates dire Frown</l>
+               <l>Has thrown your dear <hi>Herculean</hi> Column down.</l>
+            </lg>
+            <lg>
+               <l>Oh, <hi>Charon!</hi> waft thy Load of Honour o'r,</l>
+               <l>And land Him safely on the <hi>Stygian</hi> Shoar:</l>
+               <l>At His Approach, Fames loudest Trumpet call</l>
+               <l>
+                  <hi>Cromwell, Cook, Ireton, Bradshaw, Hewson,</hi> all,</l>
+               <l>From all the Courts below, each well-pleas'd <hi>Ghost,</hi>
+               </l>
+               <l>All the <hi>Republick Legions</hi> numerous <hi>Host,</hi>
+               </l>
+               <l>Swarm thick, to see your Mighty Heroe land,</l>
+               <l>Crowd up the Shoar, and blacken all the <hi>Strand;</hi>
+               </l>
+               <l>And, whate'r Chance on Earth, or Pow'rs accurst,</l>
+               <l>Broke all your Bonds, your Holy Leagues all burst:</l>
+               <l>This Union of the SAINTS no Storm shall sever,</l>
+               <l>This <hi>Last ASSOCIATION</hi> holds for ever.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed, and are to be sold by <hi>Walter Davis,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
